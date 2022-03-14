@@ -1,0 +1,9 @@
+{
+  "alert": "./packages/alert/index.js",
+  "button": "./packages/button/index.js",
+  "card": "./packages/card/index.js",
+  "icon": "./packages/icon/index.js",
+  "badge": "./packages/badge/index.js",
+  "test": "./packages/test/index.js",
+  "input": "./packages/input/index.js"
+}
